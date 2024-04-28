@@ -8,7 +8,7 @@ import logging
 logging.basicConfig(level=logging.INFO,format='[%(asctime)s]: %(message)s:')
 
 
-project_name = "F&VClassifier"
+project_name = "F_VClassifier"
 
 list_of_files = [
     ".github/workflows/.gitkeep",

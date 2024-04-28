@@ -7,7 +7,7 @@ with open("README.md","r",encoding="utf-8") as f:
 __version__="0.0.0"
 REPO_NAME="Fruits-and-vegetables-Image-classification"
 AUTHOR_USER_NAME="sadam-hussain-s"
-SRC_REPO="F&VClassifier"
+SRC_REPO="F_VClassifier"
 AUTHOR_EMAIL="sadam89391@gmail.com"
 
 setuptools.setup(
